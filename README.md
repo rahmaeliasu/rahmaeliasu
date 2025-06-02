@@ -1,14 +1,10 @@
-### Hello, World!👋
+## Hi there 👋
 
-I'm Rahma, a second year Computer Science student at KNUST. <br>
+I'm Rahma, a Computer Science student with a growing focus on **Python** and **AI**. 
 
-I'm fascinated by innovations in AI and I'm primarily interested in full-stack development, Machine Learning, and everything in between.
+I'm fascinated by the rapid innovations in AI and modern technology, and I'm currently focused on improving my coding and problem-solving skills. <br>
+Beyond coding, I’m deeply interested in social and economic development and in using modern tech to transform industries. I enjoy learning and discovering new things.
 
-Outside of coding, I love exploring and discovering new things, particularly in science and technology, as well as in social and economic development. I'm a multi-faceted individual 😐. <br>
-
-👩‍💻 Currently working on:
-  
-    > Improving my coding skills
    
 #### Let's connect!
 <a href="https://www.linkedin.com/in/rahmaeliasu/" target="_blank">
