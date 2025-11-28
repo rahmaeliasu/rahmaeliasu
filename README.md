@@ -1,1 +1,22 @@
-CS'26
+```python
+print("hello world 👋!")
+
+__name__ = "Rahma"
+__role__ = "Computer Science student"
+__year__ = "CS'26"
+
+interests = [
+    "programming",
+    "intelligent systems",
+    "research",
+]
+
+tech = {
+    "primary": "Python",
+    "learning": ["JS", "React"],
+    "web": "Django",
+}
+
+def status():
+    return "learning & experimenting"
+```
