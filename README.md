@@ -6,15 +6,15 @@ __role__ = "Computer Science student"
 __year__ = "CS'26"
 
 interests = [
-    "programming",
     "intelligent systems",
+    "software engineering",
     "research",
 ]
 
 tech = {
-    "primary": "Python",
-    "learning": ["JS", "FastAPI"],
-    "web": "Django",
+    "primary_language": "Python",
+    "currently_learning": ["JavaScript", "FastAPI"],
+    "web_frameworks": ["Astro", "Django"],
 }
 
 def status():
