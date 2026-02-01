@@ -13,10 +13,10 @@ interests = [
 
 tech = {
     "primary": "Python",
-    "learning": ["JS", "React"],
+    "learning": ["JS", "FastAPI"],
     "web": "Django",
 }
 
 def status():
-    return "learning & experimenting"
+    return "exploring my curiosity."
 ```
